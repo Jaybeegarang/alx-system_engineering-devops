@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 2 root root 4096 Mar  7 06:41 .
+drwxr-xr-x 6 root root  121 Mar  6 21:02 ..
+-rwxr--r-- 1 root root   36 Mar  7 04:52 0-hello_world
+-rwxr--r-- 1 root root   26 Mar  6 23:22 10-no_more_js
+-rwxr--r-- 1 root root   49 Mar  6 23:25 11-directories
+-rwxr--r-- 1 root root   29 Mar  6 23:30 12-newest_lines
+-rwxr--r-- 1 root root   25 Mar  6 23:32 13-unique
+-rwxr--r-- 1 root root   37 Mar  6 23:37 14-findthatword
+-rwxr--r-- 1 root root   44 Mar  6 23:45 15-countthatword
+-rwxr--r-- 1 root root   28 Mar  7 05:06 1-confused_smiley
+-rwxr--r-- 1 root root   29 Mar  7 05:12 2-hellofile
+-rwxr--r-- 1 root root   39 Mar  7 05:15 3-twofiles
+-rwxr--r-- 1 root root   29 Mar  7 05:18 4-lastlines
+-rwxr--r-- 1 root root   30 Mar  7 05:19 5-firstlines
+-rwxr--r-- 1 root root   41 Mar  7 05:24 6-third_line
+-rwxr--r-- 1 root root   97 Mar  7 06:37 7-file
+-rwxr--r-- 1 root root   36 Mar  7 06:39 8-cwd_state
+-rwxr--r-- 1 root root   38 Mar  6 22:39 9-duplicate_last_line
+-rw-r--r-- 1 root root 1081 Mar  7 06:39 ls_cwd_content
+-rw-r--r-- 1 root root   27 Mar  6 21:03 README.md
+-rw-r--r-- 1 root root    0 Mar  7 06:41 sis
