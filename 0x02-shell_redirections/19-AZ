@@ -1,2 +1,2 @@
 #!/bin/bash
-trA c to Ze
+tr 'A' 'Z' | 'c' 'e'
