@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -1aR
+find . -empty | ls -1aR > test.txt | echo test.txt
+
