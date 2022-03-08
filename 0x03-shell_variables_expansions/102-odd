@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ls | egrep [13579]
+echo $ls | grep [13579]
