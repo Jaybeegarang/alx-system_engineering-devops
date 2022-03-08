@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ls | grep [13579]
+echo ls -a | tr '13579'
